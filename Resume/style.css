@@ -1,0 +1,46 @@
+/*stylesformyresume*/
+
+body {font-family: 'Open Sans', Arial, sans-serif;
+font-size: 1em; 
+    color:#144;
+font-weight:400;}
+
+/* name */
+
+h1 {font-size: 3em;
+    text-transform:uppercase;
+    text-align:center;
+    color:#33445e;}
+
+/*title */
+
+strong {color:#33485e;
+    text-transform:uppercase;
+    font-size:1.5em;}
+
+/* titles of section headers */
+
+h2 {font-size:1.5em;
+text-transform:uppercase;
+    background-color:#33485e;
+    color:#fff;}
+
+/* job titles */
+
+h3 {font-size:1.5em;
+    font-weight:600;}
+
+/* job organization */
+
+h4 {font-size:1.5em;
+    font-weight:400;}
+
+/* dates of jobs */
+
+h5 {font-size:1em;
+    font-weight:400;
+font-style:italic;}
+
+/* regular detail text */
+
+p {font-size:1em;}
