@@ -5,42 +5,83 @@ font-size: 1em;
     color:#144;
 font-weight:400;}
 
+#container {width: 100%;
+max-width: 1200px;
+margin: 0 auto;
+border-bottom: 50px;}
+
 /* name */
 
-h1 {font-size: 3em;
+
+#Name {font-size: 3em;
     text-transform:uppercase;
     text-align:center;
-    color:#33445e;}
+    color:#33445e;
+    border-bottom-style: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #33485e;
+    border-bottom-width: 60%;
+    min-width: 300px;
+    margin: 0 auto;
+}
 
 /*title */
 
-strong {color:#33485e;
+    
+#strong  
+       {color:#33485e;
     text-transform:uppercase;
-    font-size:1.5em;}
-
+    font-size:1.5em;
+    font-weight: 600px;
+    text-align: center;
+    margin: 20px, 0px, 0px, 0px;
+    }
 /* titles of section headers */
 
-h2 {font-size:1.5em;
+#sectionheader {font-size:1.5em;
 text-transform:uppercase;
     background-color:#33485e;
-    color:#fff;}
+    color:#fff;
+    margin: 20px, 0px, 10px, 0px;
+    width: 70%;
+    min-width: 300px;
+    }
 
 /* job titles */
 
-h3 {font-size:1.5em;
+#jobtitle {font-size:1.5em;
     font-weight:600;}
-
 /* job organization */
 
-h4 {font-size:1.5em;
+#organization {font-size:1.25em;
     font-weight:400;}
 
 /* dates of jobs */
 
-h5 {font-size:1em;
+#date {font-size:1em;
     font-weight:400;
-font-style:italic;}
+font-style:italic;
+margin: 2px, 0px, 0px, 0px;}
 
 /* regular detail text */
 
-p {font-size:1em;}
+p {font-size:1em;
+    }
+
+.description {margin: 10px, 0px;}
+
+.degrees {margin: 5px, 0px, 0px, 0px;
+}
+.menu {margin: 0px;
+        padding: 0px;
+        text-align: center;
+    display: inline;
+}
+
+.do {margin: 5px, 0px, 0px, 0px;}
+
+.top {width: 60%;
+    min-width: 300px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+text-align: center;}
