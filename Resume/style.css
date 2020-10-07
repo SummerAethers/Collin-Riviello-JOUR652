@@ -72,11 +72,12 @@ p {font-size:1em;
 
 .degrees {margin: 5px, 0px, 0px, 0px;
 }
-.menu {margin: 0px;
+.menu {margin: 0 auto;
         padding: 0px;
         text-align: center;
-    display: inline;
-}
+      }
+
+.menu li {display: inline;}
 
 .do {margin: 5px, 0px, 0px, 0px;}
 
