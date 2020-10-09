@@ -1,14 +1,14 @@
 /*stylesformyresume*/
 
 body {font-family: 'Open Sans', Arial, sans-serif;
-font-size: 1em; 
-    color:#144;
-font-weight:400;}
+        font-size: 1em; 
+        color:#144;
+        font-weight:400;}
 
 #container {width: 100%;
-max-width: 1200px;
-margin: 0 auto;
-border-bottom: 50px;}
+            max-width: 1200px;
+            margin: 0 auto;
+            border-bottom: 50px;}
 
 /* name */
 
@@ -22,7 +22,7 @@ border-bottom: 50px;}
     border-bottom-color: #33485e;
     border-bottom-width: 60%;
     min-width: 300px;
-    margin: 0 auto;
+    margin: 0 auto center;
 }
 
 /*title */
@@ -30,38 +30,38 @@ border-bottom: 50px;}
     
 #strong  
        {color:#33485e;
-    text-transform:uppercase;
-    font-size:1.5em;
-    font-weight: 600px;
-    text-align: center;
-    margin: 20px, 0px, 0px, 0px;
+        text-transform:uppercase;
+        font-size:1.5em;
+        font-weight: 600px;
+        text-align: center;
+        margin: 20px, 0px, 0px, 0px;
     }
 /* titles of section headers */
 
 #sectionheader {font-size:1.5em;
-text-transform:uppercase;
-    background-color:#33485e;
-    color:#fff;
-    margin: 20px, 0px, 10px, 0px;
-    width: 70%;
-    min-width: 300px;
+                text-transform:uppercase;
+                background-color:#33485e;
+                color:#fff;
+                margin: 20px, 0px, 10px, 0px;
+                width: 70%;
+                min-width: 300px;
     }
 
 /* job titles */
 
 #jobtitle {font-size:1.5em;
-    font-weight:600;}
+            font-weight:600;}
 /* job organization */
 
 #organization {font-size:1.25em;
-    font-weight:400;}
+                font-weight:400;}
 
 /* dates of jobs */
 
 #date {font-size:1em;
-    font-weight:400;
-font-style:italic;
-margin: 2px, 0px, 0px, 0px;}
+        font-weight:400;
+        font-style:italic;
+        margin: 2px, 0px, 0px, 0px;}
 
 /* regular detail text */
 
@@ -82,7 +82,7 @@ p {font-size:1em;
 .do {margin: 5px, 0px, 0px, 0px;}
 
 .top {width: 60%;
-    min-width: 300px;
-    margin: 0 auto;
-    margin-bottom: 30px;
-text-align: center;}
+        min-width: 300px;
+        margin: 0 auto;
+        margin-bottom: 30px;
+        text-align: center;}
