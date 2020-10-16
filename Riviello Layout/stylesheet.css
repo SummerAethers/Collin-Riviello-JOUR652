@@ -1,18 +1,30 @@
 stylesheet.css
 
 
-#h1 {font-family: Helvetica, sans-serif;
-        font-size: 18px;
-        }
+#h1 {font-family: Helvetica, "sans-serif";
+        font-size: 20px;
+font-style: bold;
+}
 
 #content    {margin: 0 auto;
             width: 900px;}
 
-#byline {font-family: Helvetica, sans-serif;
-font-size: 14px;
-font-style: italic;
-}
+#byline {font-family: Helvetica, "sans-serif";
+        font-size: 14px;
+        font-style: italic;}
 
-#p {font-family: Georgia, serif;
-    font-size: 13px;
-    }
+#p         {font-family: Georgia, serif;
+            font-size: 13px;}
+
+#blockquote {font: 24px/36px normal helvetica, san-serif;
+                font-style: italic;
+                Margin-top: 15px;
+                Margin-bottom: 15px;
+                color: black;
+                margin-left: 50px;
+                padding-left: 15px;
+                border-left: 4px solid #40472a;}
+
+#h3  {font-family: Helvetica, "sans-serif";
+        font-size: 20px;
+    font-style: bold;}
