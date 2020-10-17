@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Collin Riviello Resume</title>
+        <style>
+               h1 {color: blue;
+                   font-size: 36px}</style>
+    </head>
+    </html>
+
+
+    <body> I built this myself!
+        
+        <h1>Collin Riviello</h1>
+        <img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/67740372_2361293277298680_4819114960091086848_o.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_ohc=g6gT8EtaZIgAX-lsfoF&_nc_ht=scontent-iad3-1.xx&oh=d6c6c00d4019b6e3b269c6fb6dcb956c&oe=5F85E96A" alt="Collin Riviello" width="300" height="400">
+        <h2><b>Student</b></h2>
+        <h2><ui>
+            <li>Criviel1@umd.edu </li>
+            <li><a href="https://www.linkedin.com/in/collin-riviello-99aba6140/"> LinkedIn</a></li>
+            <li><a href="https://twitter.com/collin_riviello"> Twitter</a></li>
+            <li><a href="https://github.com/SummerAethers"> Github</a></li>
+</ui></h2>
+        
+        <p>Candidate for a Master of Journalism at the University of Maryland College Park
+Graduate Student</p>
+        
+<h2>Experience</h2>
+<h3>Sportswriter</h3>
+<h4>Emmitsburg News Journal</h4>
+<h5>2018-2020</h5>
+        <p><ui><li>Wrote monthly 1200-word articles, adhering to AP style mechanics. </li><li>Provided one 300dpi photo to accompany each article monthly.</li></ui></p>
+        
+<h3>Resident Assistant</h3>
+<h4> Mount St. Mary's University</h4>
+<h5>2018-2020</h5>
+        <p><ui><li>Organize group and individual programs for residents.  </li><li>Complete rounds at least once a week and two weekends a month.</li><li>Respond as a mediator when necessary, including crisis management and enforce community standards and campus code of conduct. </li></ui></p>
+
+<h2>Education</h2>
+        <p><ul><li>M.J., University of Maryland College Park, August 2020- Present</li>
+                <li>B.A. English with Maryland certification in secondary education, Mount St. Mary’s University (Md.), May 2020</li>
+                <li>Montgomery College (Md.), three credits, Fall 2016</li></ul></p>
+
+<h2>Skills</h2>
+<p><ul><li>Fluency in Google Cloud Suite</li><li>Certified in CPR, First-aid, and AED by National Safety Council</li><li>Basic working knowledge of Adobe Photoshop CS5</li></ul></p>
+        
+    </body>
+</html>
