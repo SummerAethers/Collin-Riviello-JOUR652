@@ -46,7 +46,7 @@
        
                  <button type="button" class="btn btn-light">Skills</button>
        
-                        <button type="button" class="btn btn-light">Writing Samples</button>
+                        <a href="#writingsamples" class="btn btn-light" role="button">Writing Samples</a>
        
          
          <a href="https://twitter.com/collin_riviello" target="_blank" class="btn btn-primary" role="button">Twitter</a>
@@ -67,25 +67,26 @@
             
 
             
-            <div id="carouselExampleInterval" class="carousel slide" data-ride="carousel">
+            <div id="carouselExampleInterval" class="carousel slide" data-ride="carousel" data-interval="1000">
+                
   <div class="carousel-inner">
-    <div class="carousel-item active" data-interval="5000">
-      <img src="track.jpg" class="d-block w-100" alt="...">
+    <div class="carousel-item active" data-interval="3000">
+      <img src="track.jpg" class="d-block w-100" alt="..." data-interval="1000">
     </div>
       
-    <div class="carousel-item" data-interval="2000">
+    <div class="carousel-item" data-interval="3000">
       <img src="womenslax.jpg" class="d-block w-100" alt="...">
     </div>
       
-    <div class="carousel-item">
+    <div class="carousel-item" data-interval="3000">
       <img src="xc.jpg" class="d-block w-100" alt="...">
     </div>
-           <div class="carousel-item">
+           <div class="carousel-item" data-interval="3000">
       <img src="Austria.jpg" class="d-block w-100" alt="...">
     </div>
                 </div>
   <a class="carousel-control-prev" href="#carouselExampleInterval" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="carousel-control-prev-icon" aria-hidden="false"></span>
     <span class="sr-only">Previous</span>
   </a>
   <a class="carousel-control-next" href="#carouselExampleInterval" role="button" data-slide="next">
@@ -107,8 +108,9 @@
 <div class="container">
         <div class="row">
 
-                <div class="col-md-4">
-                        <h3>Writing Sample 1</h3>
+            <div class="col-md-4">
+                       <div id="writingsamples"></div> 
+                <h3>Writing Sample 1</h3>
                     
                     <div class="card" style="width: 18rem;">
   <img src="archbalt.jpg" class="card-img-top" alt="...">
