@@ -18,3 +18,8 @@ height: 35px;}
                 color: white;
                 height: 35px;
                 font-family: 'Didact Gothic', sans-serif;}
+
+.btn-dark {background-color: white;
+                color: black;
+                height: 35px;
+                font-family: 'Didact Gothic', sans-serif;}
