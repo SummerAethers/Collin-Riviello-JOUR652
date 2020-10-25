@@ -1,25 +1,19 @@
-.btn-primary { background-color: deepskyblue; 
-                color: white;
-height: 35px;
-font-family: 'Didact Gothic', sans-serif;}
+.container {width: 100%;}
 
+.carousel-item {position: relative !important;}
 
-.btn-info {background-color: #e1e4fa;
-            color:#f53196;
-height: 35px;
-font-family: 'Didact Gothic', sans-serif;}
+.black-overlay {position: absolute;
+                position: absolute;
+                top: 880px;
+                left: 0px;
+                height: 10%;
+                width: 100%;
+                background: rgba(0, 0, 0, 0.6);}
 
-
-
-.btn-warning {background-color: #1d67c2;
-                color: white;
-                height: 35px;
-                font-family: 'Didact Gothic', sans-serif;}
-
-.btn-dark {background-color: white;
-                color: black;
-                height: 35px;
-                font-family: 'Didact Gothic', sans-serif;}
-
-
-.container {width:100%;}
+.black-overlay-second {position: absolute;
+                        position: absolute;
+                        top: 730px;
+                        left: 0px;
+                        height: 10%;
+                        width: 100%;
+                        background: rgba(0, 0, 0, 0.6)}
