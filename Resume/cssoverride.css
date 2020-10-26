@@ -43,7 +43,7 @@
 
 .container {width: auto 0;
             height: auto 0;
-            box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2);   
+            box-shadow: 0 0 2rem 0rem rgba(0, 0, 0, .2);   
             border-radius: 0px; 10px; 10px, 10px;
             background-color: rgba(255, 255, 255, .15);}
             
@@ -52,7 +52,7 @@
               height: 100%;
               background-position: center;
               background-repeat: no-repeat;
-                background-size: cover;}
+            background-size: cover;}
 
 nav-tabs {border-bottom: none;}
 
