@@ -79,16 +79,26 @@ nav-tabs {border-bottom: none;}
                 position: absolute;
                 top: 800px;
                 left: 0px;
-                height: 38%;
+                height: 40%;
                 width: 100%;
                 background: rgba(0, 0, 0, .65);}
+
+.card-img-overlay-2 {position: absolute;
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                height: 25%;
+                width: 100%;
+                background: rgba(0, 0, 0, .65);}
+
 
 .h8 {font-family: 'Didact Gothic', sans-serif;
         font-size: 2em;
             font-style: bold;}
 
 
-@media only screen and (max-width: 500px) {
-    .hide {display:none;}
-        
+@media screen and (max-width: 500px) {
+    .hide {
+        display:none;
+    }
 }
