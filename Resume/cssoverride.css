@@ -83,13 +83,15 @@ nav-tabs {border-bottom: none;}
                 width: 100%;
                 background: rgba(0, 0, 0, .65);}
 
-.card-img-overlay-2 {position: absolute;
+.card-img-overlay-2 {position: relative;
                 position: absolute;
                 top: 0px;
                 left: 0px;
-                height: 25%;
+                height: 30%;
                 width: 100%;
                 background: rgba(0, 0, 0, .65);}
+
+
 
 
 .h8 {font-family: 'Didact Gothic', sans-serif;
