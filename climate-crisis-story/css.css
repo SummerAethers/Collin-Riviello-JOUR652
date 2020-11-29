@@ -1,0 +1,118 @@
+.container {width: auto 0;
+            height: auto 0;
+            box-shadow: 0 0 2rem 0rem rgba(0, 0, 0, .2);   
+            border-radius: 0px; 10px; 10px, 10px;
+            background-color: rgba(255, 255, 255, .15);
+            background: #ffd9b3;}
+
+.headline {font-size: 4em;
+            font-weight: 700;
+                text-align:center;
+                    font-family: 'Georgia', sans-serif;
+                        color:coral;
+                            text-shadow: 3px 3px #ff0000}
+
+
+
+.byline {font-size: 1em;
+            text-transform: uppercase;
+                font-family: 'Montserrat', sans-serif; 
+                    text-align: center;}
+
+
+
+.p {font-size: 1em;
+        text-align:justify;
+            font-family: Georgia, serif;
+                line-height: 180%;
+                    }
+
+.body {background-image:url(background.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+    background-size: cover;}
+
+
+
+.ending {font-size: 1em;
+            font-style: italic;}
+
+
+@import url(https://fonts.googleapis.com/css?family=Bitter);
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  text-align: center;
+  padding-top: 50px;
+  background: url(https://dl.dropbox.com/s/mz2pjouq8xqw45k/wood_1.png?dl=1);
+}
+
+blockquote {
+  position: relative;
+  display: inline-block;
+  background: orange;
+  padding: 10px 15px 20px 15px;
+  border-radius: 10px;
+  font-family: 'Bitter', serif;
+    font-size: 2em;
+    font-weight: 50;
+  color: #333;
+  text-align: left;
+  
+  box-shadow: 1px 1px 1px #999,
+              2px 2px 1px #999,
+              3px 3px 1px #999;
+  transition-duration: .3s;}
+
+.img{width: auto 0;
+            height: auto 0;}
+
+img{
+height: 100%;
+width: 100%;
+object-fit: contain;
+}
+
+aside {
+  width: 25%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: left;
+  font-style: italic;
+  background-color: lightgray;
+}
+
+a:link {
+    color: #1ebba3;
+}
+a:visited {
+    color: #ff00f4;
+}
+a:hover {
+    color: #a766ff;
+}
+a:active {
+    color: #ff9800;
+}
+
+.h4 {font-size: 15em;
+            text-align:center;
+                    font-family: 'Georgia', sans-serif;
+                        color:coral;
+                            text-shadow: 1px 1px #ff0000}
+.header-img {
+  width: auto;
+  height: 90px;
+  background-image: url(header.jpg);
+      background-size: cover;
+            background-position: center;
+                background-repeat: no-repeat;}
+
+@media screen and (max-width: 800px) {
+  .left, .main, .right {
+    width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
+}
